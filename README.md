@@ -4,7 +4,7 @@ Atualmente ando forticando minha base nas linguagens de programação front-end,
 codificando projetos do 0 e aplicando os melhores conceitos em programmação e estrutura de sites web.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/JackDev085/jackdev085/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Tem um freelance para trabalho? me envie um email, [email](mailto:computadordb@gmail.com) :)
 - 💬 Pode me perguntar qualquer coisa, estou aqui para ajudar;
@@ -31,7 +31,7 @@ js      █████░░░░░░░░░░░░░░░░░░░
 Python  █████████████░░░░░░░░░░░░
 
 Django  █████████░░░░░░░░░░░░░░░░ 
- 
+
 Git     ██████░░░░░░░░░░░░░░░░░░░
 ```
 <!--fim habilidades-->
@@ -40,7 +40,8 @@ Git     ██████░░░░░░░░░░░░░░░░░░
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-
-📈 Meus status no Git-hub  
+## love❤️
+<img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"
+📈 Meus status no Git-hub  alt="git">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
