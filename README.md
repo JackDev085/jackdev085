@@ -49,6 +49,6 @@ Git     ██████░░░░░░░░░░░░░░░░░░
 <p align="center"><img align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNwMDZybHg4cWZ0dTV6d2FkcDhpMDU3aXNzZDRqOHhrdWE4M3J0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9XgHHnPnDjOF1hWpl/giphy.gif">
 
 
+<p align="center">📈 Meus status no Git-hubs
 
-
-<p align="center">📈 Meus status no Git-hubs <img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
