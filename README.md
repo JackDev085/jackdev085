@@ -40,8 +40,12 @@ Git     ██████░░░░░░░░░░░░░░░░░░
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-## love❤️
-<img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"
-📈 Meus status no Git-hub  alt="git">
+
+
+## codar é vida❤️
+<img align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNwMDZybHg4cWZ0dTV6d2FkcDhpMDU3aXNzZDRqOHhrdWE4M3J0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9XgHHnPnDjOF1hWpl/giphy.gif">
+
+
+📈 Meus status no Git-hub  alt="git"
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
