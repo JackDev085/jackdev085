@@ -1,7 +1,7 @@
 Olá, me chamo [Jackson Lorran](https://jackson-lorran.vercel.app) e sou um desenvolvedor web. 
 
-Atualmente ando forticando minha base nas linguagens de programação, 
-codificando projetos do 0 e aplicando os melhores padrões de construção de sites web.
+Atualmente ando forticando minha base nas linguagens de programação front-end, 
+codificando projetos do 0 e aplicando os melhores conceitos em programmação e estrutura de sites web.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -23,10 +23,15 @@ codificando projetos do 0 e aplicando os melhores padrões de construção de si
 
 ```txt
 Html    █████████████████░░░░░░░░
+
 Css     ███████████████████░░░░░░
+
 js      █████░░░░░░░░░░░░░░░░░░░░ 
+
 Python  █████████████░░░░░░░░░░░░
-Django  █████████░░░░░░░░░░░░░░░░  
+
+Django  █████████░░░░░░░░░░░░░░░░ 
+ 
 Git     ██████░░░░░░░░░░░░░░░░░░░
 ```
 <!--fim habilidades-->
@@ -36,6 +41,6 @@ Git     ██████░░░░░░░░░░░░░░░░░░
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
-📈 my github stats
+📈 Meus status no Git-hub  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
