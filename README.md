@@ -1,54 +1,66 @@
-## Quem sou eu?
+#### Olá Mundo! Pode me chamar de Jackson
 
-Olá, me chamo [Jackson Lorran](https://jackson-lorran.vercel.app) e sou um desenvolvedor web. 
+Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniateneu e um apaixonado por resolver problemas!
 
-Atualmente ando forticando minha base nas linguagens de programação front-end, 
-codificando projetos do 0 e aplicando os melhores conceitos em programmação e estrutura de sites web.
+<div style="width: max-content;">
+
+#### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
+
+![Html](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
+
+#### 🌱 Estou estudando atualmente:
+<div>
+<img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
+</div>
+
+#### 📫 Você pode me encontrar em:
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/computadordb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/jackson-nascimento-bb4454205/)](https://www.linkedin.com/in/jackson-nascimento-bb4454205/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/@Big0notation
+)](https://www.youtube.com/@Big0notation
+)</div>
+[![Gmail](https://img.shields.io/badge/arthur.galanti@hotmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:computadordb@gmail.com)](mailto:computadordb@gmail.com)
+
+#### 🌐 Meu portifólio pessoal:
+<div >
+	<a href="https://jackson-lorran.vercel.app/">
+  	<img align="center" src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2017/10/19140245/portfolio-como-fazer1.jpg" width="150" />
+  	</a>
+</div>
+	<p><strong>Em desenvolvimento</strong>⚠️</p>
+
+#### 🗂️ Meus repositórios principais:
+
+<a href="https://github.com/JackDev085/encurtador-html_css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackdev085&repo=landing-pagee
+&&theme=dark" />
+</a>
+<a href="https://github.com/JackDev085/encurtador-html_css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackdev085&repo=encurtador-html_css&&theme=dark" />
+</a>
+<a href="https://github.com/JackDev085/jogo_do_mario-Html_Css_Js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackdev085&repo=jogo_do_mario-js&&theme=dark" />
+</a>
+<a href="https://github.com/JackDev085/jogo_do_mario-Html_Css_Js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackdev085&repo=pinguim-css&&theme=dark" />
+</a>
+<a href="https://github.com/JackDev085/jogo_do_mario-Html_Css_Js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackdev085&repo=netflix-copy-page&&theme=dark" />
+</a>
 
 
-  <img align="right" alt="GIF" src="https://github.com/JackDev085/jackdev085/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Tem um freelance para trabalho? me envie um email, [email](mailto:computadordb@gmail.com) :)
-- 💬 Pode me perguntar qualquer coisa, estou aqui para ajudar;
 
-**linguagens e ferramentas:**  
+#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/jackdev085?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdev085&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/jackdev085?tab=repositories)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **Nível de habilidade:**
-<!--começo habilidades-->
-
-```txt
-Html    █████████████████░░░░░░░░
-
-Css     ███████████████████░░░░░░
-
-js      █████░░░░░░░░░░░░░░░░░░░░ 
-
-Python  █████████████░░░░░░░░░░░░
-
-Django  █████████░░░░░░░░░░░░░░░░ 
-
-Git     ██████░░░░░░░░░░░░░░░░░░░
-```
-<!--fim habilidades-->
-
-<!-- Gostou dos conteúdos no meu repositório e quer me dar uma café? Link abaixo🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-
-
-
-<p align="center">CODAR É VIDA❤️
-
-<p align="center"><img align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNwMDZybHg4cWZ0dTV6d2FkcDhpMDU3aXNzZDRqOHhrdWE4M3J0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9XgHHnPnDjOF1hWpl/giphy.gif">
-
-
-<p align="center">📈 Meus status no Git-hubs
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&theme=gotham" alt="jackdev085" />
+#
