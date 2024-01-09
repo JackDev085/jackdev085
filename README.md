@@ -6,8 +6,8 @@ Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento d
 
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
-![Html](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=css3&logoColor=white)
+![Html](https://img.shields.io/badge/Html-%23EFD81D?style=flat-square&labelColor=%23414141&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%23EFD81D?style=flat-square&labelColor=%23414141&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
@@ -15,7 +15,7 @@ Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento d
 
 #### 🌱 Estou estudando atualmente:
 <div>
-<img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
 </div>
@@ -28,7 +28,7 @@ Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento d
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/@Big0notation
 )](https://www.youtube.com/@Big0notation
 )</div>
-[![Gmail](https://img.shields.io/badge/arthur.galanti@hotmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:computadordb@gmail.com)](mailto:computadordb@gmail.com)
+[![Gmail](https://img.shields.io/badge/computadordb@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:computadordb@gmail.com)](mailto:computadordb@gmail.com)
 
 #### 🌐 Meu portifólio pessoal:
 <div >
