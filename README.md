@@ -1,6 +1,6 @@
 #### Olá Mundo! Pode me chamar de Jackson
 
-Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniateneu e um apaixonado por resolver problemas!
+Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniateneu, e antes que eu me esqueça, sou um apaixonado por resolver problemas!
 
 <div style="width: max-content;">
 
