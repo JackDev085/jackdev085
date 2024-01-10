@@ -61,6 +61,7 @@ Futuro Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento d
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=jackdev085&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/jackdev085?tab=repositories)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdev085&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/jackdev085?tab=repositories)
+
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdev085&layout=compact&locale=pt-BR&&)](https://github.com/jackdev085?tab=repositories)
 
 #
