@@ -21,6 +21,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Ballers085](https://ballers085.vercel.app): Um projeto web para assistir treinos de basquete.
 - Api ballers085(privado): Api integrada com banco de dados para o site "Ballers085"
 - [Encurtador com html e css](https://encurtador-simples.vercel.app/): Encurtador simples para meus links principais.
+- [Gerador de relatório](https://flask-cuca.vercel.app/): Gerador de relatório para monitores do instituto cuca.
 
 ## Tecnologias que eu trabalho
 
