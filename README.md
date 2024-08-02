@@ -5,23 +5,21 @@ Olá! Eu sou Jackson Lorran, um desenvolvedor entusiasta apaixonado por criar so
 ## Sobre mim
 
 - 👨‍💻 Desenvolvedor web com foco em Python, Flask, FastAPI, Django e React.
-- 🎓 Bacharel em Ciência da Computação pela Uniateneu.
+- 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas pela Uniateneu.
 - 🌱 Aprendendo constantemente e sempre buscando novas tecnologias para aprimorar minhas habilidades.
 
 ## O que eu faço
 
 - 🚀 Desenvolvo aplicativos web escaláveis e eficientes utilizando Python e seus frameworks populares como Flask, FastAPI e Django.
 - ⚙️ Crio interfaces de usuário interativas e responsivas com React, garantindo uma ótima experiência do usuário.
-- 🔧 Automatizo processos e desenvolvo APIs robustas para integração de sistemas.
 
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Ballers085](https://ballers085.vercel.app): Um projeto web para assistir treinos de basquete.
-- Api ballers085(privado): Api integrada com banco de dados para o site "Ballers085"
+- [Ballers085](https://ballers085-3bab2862ad19.herokuapp.com/): Um projeto web para assistir treinos de basquete.
 - [Encurtador com html e css](https://encurtador-simples.vercel.app/): Encurtador simples para meus links principais.
-- [Gerador de relatório](https://flask-cuca.vercel.app/): Gerador de relatório para monitores do instituto cuca.
+- [Gerador de relatório](https://juvtech-db4a648cbc9f.herokuapp.com/): Gerador de relatório para monitores do instituto cuca.
 
 ## Tecnologias que eu trabalho
 
