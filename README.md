@@ -33,7 +33,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Se você tem alguma pergunta, sugestão ou apenas quer bater um papo sobre desenvolvimento web, sinta-se à vontade para me contatar:
 
-- [E-mail](jackson.nasc20@gmail.com)
+- [E-mail](mailto:jackson.nasc20@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jackson-nascimento-bb4454205/)
 
 Vamos construir algo incrível juntos! 🚀
