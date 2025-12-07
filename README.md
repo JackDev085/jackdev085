@@ -4,8 +4,8 @@ Olá! Eu sou Jackson Lorran e conto com 2 anos de experiência na área desenvol
 
 ## Sobre mim
 
-- Acadêmico em Engenharia de Telecomunicações pela Universidade Federal do Ceará (UFC)
-- Atleta universitário de basquete  
+- 📚Acadêmico em Engenharia de Telecomunicações pela Universidade Federal do Ceará (UFC)
+- ⛹️‍♂️Atleta universitário de basquete  
   
 ## O que eu faço
 
