@@ -17,8 +17,8 @@ Desenvolvedor Full Stack com foco em aplicações web. Experiência em JavaScrip
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Ballers085](https://ballers085.vercel.app/): Um projeto web para assistir treinos de basquete.
-- [Skillchain](https://hackweb-skillchain.vercel.app): Um projeto para verificar autenticidade de cursos em instituiçÕes de ensino utilizando smart contracts e blockchain
-- [Load Basketball](https://load-basketball): Projeto com objetivo de receber avaliações pré e pós treino para acompanhar cargas de atleta e verificar possíveis tendência de lesões.
+- [Skillchain](https://hackweb-skillchain.vercel.app/): Um projeto para verificar autenticidade de cursos em instituiçÕes de ensino utilizando smart contracts e blockchain
+- [Load Basketball](https://load-basketball.vercel.app/): Projeto com objetivo de receber avaliações pré e pós treino para acompanhar cargas de atleta e verificar possíveis tendência de lesões.
 - [Site para personal trainer](https://rubenspersonal.vercel.app/): Projeto freelancer para um personal trainer oferecer seus serviços.
 
 ## Tecnologias que eu trabalho
